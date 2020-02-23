@@ -8,6 +8,7 @@ ________________________________________________________________________________
 3. Open the unzipped folder
 4. Run "Pool800 - Proxy Grabber.exe"
 5. Click "Grab Ip's"
+
 **If Windows screen protector pops up then click "more info" and the click "run anyway"
 ___________________________________________________________________________________________________________________________________________
 **PLEASE OPEN AN ISSUE IF YOU HAVE FOUND A BUG, I WILL BE MAKING MORE OPEN SOURCE SOFTWARE IN THE FUTURE AS WELL**
